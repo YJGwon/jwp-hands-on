@@ -25,3 +25,6 @@ class에 대해
 - [X] 이름으로 특정 field를 찾는다.
 - [X] field의 type을 구한다.
 - [X] instance의 private field에 접근하여 값을 수정한다.
+
+### ReflectionsTest
+- [X] example package 내에서 `@Controller`, `@Service`, `@Repository` annotation을 가진 class를 찾아 log로 남긴다.
