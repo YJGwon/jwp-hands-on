@@ -8,4 +8,7 @@
 ---
 
 ### Junit3TestRunner
-- [X] method의 이름으로 method를 찾아 실행한다.
+- [X] 이름으로 method를 찾아 실행한다.
+
+### Junit4TestRunner
+- [X] annotation으로 method를 찾아 실행한다.
