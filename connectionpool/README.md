@@ -15,3 +15,6 @@
 ## 1단계 - 커넥션 풀링
 - [X] h2의 `JdbcConnectionPool`을 직접 다뤄본다.
 - [X] `HikariCP`를 직접 설정해본다.
+
+## 2단계 - HikariCP 설정하기
+- [X] `DataSourceConfig`를 보고 HikariCP가 어떻게 설정되었는지 파악하고, test로 확인한다.
