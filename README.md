@@ -30,3 +30,7 @@
 ## DI
 
 [di/README](./di/README.md)
+
+## Connection Pool
+
+[connectionpool/README](./connectionpool/README.md)
